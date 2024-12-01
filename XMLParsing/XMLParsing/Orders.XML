@@ -1,0 +1,13 @@
+﻿<Orders>
+	<Order>
+		<Id>1</Id>
+		<Kunde>Jesper</Kunde>
+		<Pris>100</Pris>
+	</Order>
+	<Order>
+		<Id>2</Id>
+		<Kunde>Mathilde</Kunde>
+		<Pris>200</Pris>
+	</Order>
+</Orders>
+

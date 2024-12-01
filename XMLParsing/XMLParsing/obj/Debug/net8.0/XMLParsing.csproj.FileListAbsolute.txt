@@ -1,0 +1,14 @@
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\bin\Debug\net8.0\XMLParsing.exe
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\bin\Debug\net8.0\XMLParsing.deps.json
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\bin\Debug\net8.0\XMLParsing.runtimeconfig.json
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\bin\Debug\net8.0\XMLParsing.dll
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\bin\Debug\net8.0\XMLParsing.pdb
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\obj\Debug\net8.0\XMLParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\obj\Debug\net8.0\XMLParsing.AssemblyInfoInputs.cache
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\obj\Debug\net8.0\XMLParsing.AssemblyInfo.cs
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\obj\Debug\net8.0\XMLParsing.csproj.CoreCompileInputs.cache
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\obj\Debug\net8.0\XMLParsing.dll
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\obj\Debug\net8.0\refint\XMLParsing.dll
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\obj\Debug\net8.0\XMLParsing.pdb
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\obj\Debug\net8.0\XMLParsing.genruntimeconfig.cache
+C:\Users\jakob\source\repos\XMLParsing\XMLParsing\obj\Debug\net8.0\ref\XMLParsing.dll
